@@ -1,0 +1,48 @@
+{
+	"String": [
+		{
+			"id": 975601,
+			"string": "<font size='30'>龍之晶球馬上要爆炸。</font>"
+		},
+		{
+			"id": 975602,
+			"string": "<font size='30'>白龍沈浸在晶球力量中。</font>"
+		},
+		{
+			"id": 975603,
+			"string": "<font size='30'>感受到晶球的詛咒。</font>"
+		},
+		{
+			"id": 975604,
+			"string": "<font size='30'>解除晶球力量。</font>"
+		},
+		{
+			"id": 975605,
+			"string": "<font size='30'>10秒後戰鬥地區會被封鎖。</font>"
+		},
+		{
+			"id": 975606,
+			"string": "<font size='30'>3秒後會重生。</font>"
+		},
+		{
+			"id": 975607,
+			"string": "<font size='30'>石版物件已活化。</font>"
+		},
+		{
+			"id": 975608,
+			"string": "<font size='30'>需要時空間的靈魂。</font>"
+		},
+		{
+			"id": 975609,
+			"string": "<font size='30'>守護已石活化。</font>"
+		},
+		{
+			"id": 975610,
+			"string": "<font size='30'>靈魂消失了。</font>"
+		},
+		{
+			"id": 975611,
+			"string": "<font size='30'>看見新的路。</font>"
+		}
+	]
+}

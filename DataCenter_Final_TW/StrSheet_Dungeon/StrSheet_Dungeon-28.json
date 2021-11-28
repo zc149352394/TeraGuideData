@@ -1,0 +1,24 @@
+{
+	"String": [
+		{
+			"id": 30231000,
+			"string": "能承受得住我的詛咒嗎..",
+			"styleId": 66
+		},
+		{
+			"id": 30233000,
+			"string": "稍後入口將會關閉。",
+			"styleId": 66
+		},
+		{
+			"id": 30234000,
+			"string": "野獸吸收了靈魂。",
+			"styleId": 66
+		},
+		{
+			"id": 30235000,
+			"string": "<font color='#ffe761'>(補師)</font><img src='img://__Icon_Status.DarkWater_Tex' width='32' height='32' vspace='-17'>野獸戰慄異常狀態重疊5次時致命。<font color='#ffe761'>請查看隊員的狀態並淨化</font>吧!",
+			"styleId": 66
+		}
+	]
+}

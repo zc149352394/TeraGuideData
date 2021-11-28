@@ -1,0 +1,79 @@
+{
+	"String": [
+		{
+			"id": 3037000,
+			"string": "博得的封印門關閉。",
+			"styleId": 67
+		},
+		{
+			"id": 3037001,
+			"string": "熔岩沸騰滿溢。",
+			"styleId": 67
+		},
+		{
+			"id": 3037002,
+			"string": "我的復仇要完成了…",
+			"styleId": 66
+		},
+		{
+			"id": 3037003,
+			"string": "槍騎士開始戰鬥後，請協助槍騎士消滅憤怒的火神巴哈勒。",
+			"styleId": 66
+		},
+		{
+			"id": 3037004,
+			"string": "請和召喚的祭司一起消滅憤怒的火神巴哈勒。",
+			"styleId": 66
+		},
+		{
+			"id": 3037005,
+			"string": "槍騎士開始戰鬥後，請協助槍騎士消滅憤怒的火神巴哈勒。",
+			"styleId": 66
+		},
+		{
+			"id": 3037006,
+			"string": "請和召喚的祭司一起消滅憤怒的火神巴哈勒。",
+			"styleId": 66
+		},
+		{
+			"id": 3037007,
+			"string": "戰鬥開始前請使用<img src='img://__Icon_Items.Add_Extract_Potion_2_Tex' width='28' height='28'> <img src='img://__Icon_Items.potion10_Tex' width='28' height='28'>基本增益道具和<img src='img://__Icon_Items.fallfestival_bulgogi_Tex' width='28' height='28'> <img src='img://__Icon_Items.noctan_Tex' width='28' height='28'>追加增益道具。",
+			"styleId": 71
+		},
+		{
+			"id": 3037008,
+			"string": "該道具由各BOSS級戰鬥入口的<font color = '#FFFF00'>練習副本消費道具商人</font>販賣。",
+			"styleId": 71
+		},
+		{
+			"id": 3037009,
+			"string": "與巴哈勒的戰鬥分為兩階段進行。戰鬥模式非常苛刻，請特別留意。",
+			"styleId": 66
+		},
+		{
+			"id": 3037010,
+			"string": "實戰中<font color='#ffe761'>需5人組隊</font>。(人數不滿時無法進行)",
+			"styleId": 66
+		},
+		{
+			"id": 3037012,
+			"string": "請破壞魔石召喚槍騎士或祭司。(5人練習組隊不破壞也可以。)",
+			"styleId": 71
+		},
+		{
+			"id": 3037013,
+			"string": "入口左右側存在補師增益效果魔石。需要時，請於10m內破壞。",
+			"styleId": 71
+		},
+		{
+			"id": 3037014,
+			"string": "2階段巴哈勒更加強大了。請於戰鬥開始前再次確認戰鬥模式。",
+			"styleId": 66
+		},
+		{
+			"id": 3037100,
+			"string": "副本已結束。請透過<font color='#ffe761'>/副本重置</font>或是<font color='#ffe761'>角色資訊(P) -> 副本 -> 副本初始化按鍵</font>進行副本初始化。",
+			"styleId": 71
+		}
+	]
+}

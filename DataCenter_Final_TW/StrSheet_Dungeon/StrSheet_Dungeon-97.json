@@ -1,0 +1,80 @@
+{
+	"String": [
+		{
+			"id": 905601,
+			"string": "<font size='30'>發動被封印的力量。</font>"
+		},
+		{
+			"id": 905604,
+			"string": "<font size='30'>黑龍沈浸在晶球力量中。</font>"
+		},
+		{
+			"id": 905603,
+			"string": "<font size='30'>待會黑龍耶雷梅斯會登場。</font>"
+		},
+		{
+			"id": 905612,
+			"string": "<font size='30'>30秒後發動惡魔模式。</font>"
+		},
+		{
+			"id": 905613,
+			"string": "<font size='30'>發動惡魔模式。</font>"
+		},
+		{
+			"id": 905614,
+			"string": "<font size='30'>太陽石版上發出光芒。</font>"
+		},
+		{
+			"id": 905615,
+			"string": "<font size='30'>30秒後發動太陽模式。</font>"
+		},
+		{
+			"id": 905616,
+			"string": "<font size='30'>發動太陽模式。</font>"
+		},
+		{
+			"id": 905602,
+			"string": "<font size='30'>活動量條上升</font>"
+		},
+		{
+			"id": 905620,
+			"string": "<font size='50'>模式對應成功</font>"
+		},
+		{
+			"id": 905621,
+			"string": "<font size='50'>法羅納的身上的太陽力量暴走。</font>"
+		},
+		{
+			"id": 905622,
+			"string": "<font size='50'>法羅納的身上的惡魔力量暴走。</font>"
+		},
+		{
+			"id": 905623,
+			"string": "<font size='50'>法羅納的身上的女神力量暴走。</font>"
+		},
+		{
+			"id": 905624,
+			"string": "<font size='50'>太陽力量被融合了。</font>"
+		},
+		{
+			"id": 905625,
+			"string": "<font size='50'>惡魔力量被融合了。</font>"
+		},
+		{
+			"id": 905626,
+			"string": "<font size='50'>女神力量被融合了。</font>"
+		},
+		{
+			"id": 905630,
+			"string": "<font size='50'>竟敢冒犯我們，真是可笑！</font>"
+		},
+		{
+			"id": 905610,
+			"string": "<font size='20'>時空間的靈魂</font>"
+		},
+		{
+			"id": 905611,
+			"string": "<font size='20'>石版</font>"
+		}
+	]
+}

@@ -1,0 +1,148 @@
+{
+	"String": [
+		{
+			"id": 9043001,
+			"string": "<font size='50'>入侵被發現。怪物從兩側階梯湧出來。</font>"
+		},
+		{
+			"id": 9043011,
+			"string": "<font size='50'>怪物們蜂擁而至。</font>"
+		},
+		{
+			"id": 9043121,
+			"string": "<font size='50'>移動橋被啟動。</font>"
+		},
+		{
+			"id": 9043012,
+			"string": "<font size='50'>捷徑橋被啟動。</font>"
+		},
+		{
+			"id": 9043018,
+			"string": "<font size='50'>召喚石停止運轉。已被召喚的怪物們實力變強。</font>"
+		},
+		{
+			"id": 9043020,
+			"string": "<font size='50'>稍後將召喚怪物。</font>"
+		},
+		{
+			"id": 9043021,
+			"string": "<font size='50'>移動橋被啟動。</font>"
+		},
+		{
+			"id": 9043026,
+			"string": "<font size='50'>10秒後關閉魔導士總部入口。</font>"
+		},
+		{
+			"id": 9043029,
+			"string": "<font size='50'>開關周圍的窗櫺將被打開。</font>"
+		},
+		{
+			"id": 9043030,
+			"string": "<font size='50'>門將開啟</font>"
+		},
+		{
+			"id": 9043033,
+			"string": "<font size='50'>20秒後刷新怪物。</font>"
+		},
+		{
+			"id": 9043034,
+			"string": "<font size='50'>10秒後刷新怪物。</font>"
+		},
+		{
+			"id": 9043035,
+			"string": "<font size='50'>5秒後刷新怪物。</font>"
+		},
+		{
+			"id": 9043036,
+			"string": "<font size='50'>刷新怪物。</font>"
+		},
+		{
+			"id": 9043037,
+			"string": "<font size='50'>格魯摩爾以可怕的速度恢復生命。攻城兵器防禦膜將消失。</font>"
+		},
+		{
+			"id": 9043038,
+			"string": "<font size='50'>拉紮德王的攻擊速度越來越快。</font>"
+		},
+		{
+			"id": 9043039,
+			"string": "<font size='50'>由於沒能在20秒內擊敗哈沃德，瓦格斯被重新召喚。</font>"
+		},
+		{
+			"id": 9043040,
+			"string": "<font size='50'>由於沒能在20秒內擊敗瓦格斯，哈沃德被重新召喚。</font>"
+		},
+		{
+			"id": 9043041,
+			"string": "<font size='50'>已過關！</font>"
+		},
+		{
+			"id": 9043042,
+			"string": "<font size='50'>瓦格斯鐵窗打開10秒鐘。</font>"
+		},
+		{
+			"id": 9043043,
+			"string": "<font size='50'>哈沃德鐵窗打開10秒鐘。</font>"
+		},
+		{
+			"id": 9043044,
+			"string": "<font size='50'>必須在規定時間內摧毀陷阱。</font>"
+		},
+		{
+			"id": 9043045,
+			"string": "<font size='50'>稍後關閉入口大門。</font>"
+		},
+		{
+			"id": 9043047,
+			"string": "<font size='50'>帶領者小丑出現了。</font>"
+		},
+		{
+			"id": 9043048,
+			"string": "<font size='50'>捷徑被啟動。</font>"
+		},
+		{
+			"id": 9043049,
+			"string": "<font size='50'>通往2樓的門被打開</font>"
+		},
+		{
+			"id": 9043050,
+			"string": "<font size='50'>奎克勞普斯攻擊速度越來越快。</font>"
+		},
+		{
+			"id": 9043052,
+			"string": "<font size='50'>獲得特殊的力量。</font>"
+		},
+		{
+			"id": 9043053,
+			"string": "<font size='50'>警告！稍後將召喚DEBUFF裝置。請儘量遠離房間中央。</font>"
+		},
+		{
+			"id": 9043054,
+			"string": "<font size='50'>必須在20秒內擊敗剩餘的領主怪物。</font>"
+		},
+		{
+			"id": 9043055,
+			"string": "<font size='50'>必須在30秒內擊敗剩餘的領主怪物。</font>"
+		},
+		{
+			"id": 9043056,
+			"string": "<font size='50'>竟然闖入我的城堡！好大的膽子！！！</font>"
+		},
+		{
+			"id": 9043057,
+			"string": "<font size='50'>做最後的掙扎吧！！哈哈哈哈哈哈哈哈！！"
+		},
+		{
+			"id": 9043058,
+			"string": "<font size='50'>由於沒能在30秒內擊敗哈沃德，瓦格斯被重新召喚。</font>"
+		},
+		{
+			"id": 9043059,
+			"string": "<font size='50'>由於沒能在30秒內擊敗瓦格斯，哈沃德被重新召喚。</font>"
+		},
+		{
+			"id": 9043060,
+			"string": "<font size='50'>稍後格魯摩爾將使用回血魔法，失去攻城兵器免疫效果。</font>"
+		}
+	]
+}

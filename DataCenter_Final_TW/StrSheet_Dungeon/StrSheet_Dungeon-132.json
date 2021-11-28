@@ -1,0 +1,119 @@
+{
+	"String": [
+		{
+			"id": 9126001,
+			"string": "有入侵者!保護實驗體!!",
+			"styleId": 66
+		},
+		{
+			"id": 9126002,
+			"string": "佩特萊的體力開始恢復了!",
+			"styleId": 67
+		},
+		{
+			"id": 9126003,
+			"string": "佩特萊的體力停止恢復了!",
+			"styleId": 67
+		},
+		{
+			"id": 9126004,
+			"string": "沒有地方可以逃了!!",
+			"styleId": 66
+		},
+		{
+			"id": 9126005,
+			"string": "別讓他活著離開!",
+			"styleId": 66
+		},
+		{
+			"id": 9126006,
+			"string": "佩特萊在做最後的掙扎",
+			"styleId": 67
+		},
+		{
+			"id": 9126007,
+			"string": "佩特萊已經被消滅了",
+			"styleId": 67
+		},
+		{
+			"id": 9126008,
+			"string": "這裡就是你的葬身之地!!",
+			"styleId": 66
+		},
+		{
+			"id": 9126009,
+			"string": "保護實驗體!!",
+			"styleId": 66
+		},
+		{
+			"id": 9126010,
+			"string": "佩特萊的體力開始恢復了!",
+			"styleId": 67
+		},
+		{
+			"id": 9126020,
+			"string": "開始與佩特萊戰鬥。",
+			"styleId": 67
+		},
+		{
+			"id": 9126100,
+			"string": "虛弱的佩特萊出現了。",
+			"styleId": 67
+		},
+		{
+			"id": 9126101,
+			"string": "階級計時器登場了。",
+			"styleId": 67
+		},
+		{
+			"id": 9126102,
+			"string": "佩特萊登場。",
+			"styleId": 67
+		},
+		{
+			"id": 9126103,
+			"string": "null",
+			"styleId": 67
+		},
+		{
+			"id": 9126104,
+			"string": "null",
+			"styleId": 67
+		},
+		{
+			"id": 9126105,
+			"string": "null",
+			"styleId": 67
+		},
+		{
+			"id": 9126106,
+			"string": "null",
+			"styleId": 67
+		},
+		{
+			"id": 9126107,
+			"string": "null",
+			"styleId": 67
+		},
+		{
+			"id": 9126108,
+			"string": "null",
+			"styleId": 67
+		},
+		{
+			"id": 9126109,
+			"string": "null",
+			"styleId": 67
+		},
+		{
+			"id": 9126110,
+			"string": "null",
+			"styleId": 67
+		},
+		{
+			"id": 9126111,
+			"string": "強化的佩特萊登場。",
+			"styleId": 67
+		}
+	]
+}

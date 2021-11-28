@@ -1,0 +1,76 @@
+{
+	"String": [
+		{
+			"id": 5000,
+			"string": "<font size='120'>突破50隻！</font>"
+		},
+		{
+			"id": 5001,
+			"string": "<font size='120'>60</font>"
+		},
+		{
+			"id": 5002,
+			"string": "<font size='120'>30</font>"
+		},
+		{
+			"id": 5003,
+			"string": "<font size='120'>10</font>"
+		},
+		{
+			"id": 5004,
+			"string": "<font size='120'>5</font>"
+		},
+		{
+			"id": 5005,
+			"string": "<font size='120'>4</font>"
+		},
+		{
+			"id": 5006,
+			"string": "<font size='120'>突破100隻！</font>"
+		},
+		{
+			"id": 5007,
+			"string": "<font size='120'>突破150隻！</font>"
+		},
+		{
+			"id": 5008,
+			"string": "<font size='120'>突破200隻！</font>"
+		},
+		{
+			"id": 5009,
+			"string": "<font size='120'>突破250隻！</font>"
+		},
+		{
+			"id": 5010,
+			"string": "<font size='120'>3</font>"
+		},
+		{
+			"id": 5011,
+			"string": "<font size='120'>2</font>"
+		},
+		{
+			"id": 5012,
+			"string": "<font size='120'>1</font>"
+		},
+		{
+			"id": 5013,
+			"string": "<font size='120'>突破300隻！</font>"
+		},
+		{
+			"id": 5014,
+			"string": "<font size='120'>突破350隻！</font>"
+		},
+		{
+			"id": 5015,
+			"string": "<font size='120'>突破400隻！</font>"
+		},
+		{
+			"id": 10000,
+			"string": "獎勵"
+		},
+		{
+			"id": 20000,
+			"string": "透過進行副本，可以隨機獲得右方道具。 "
+		}
+	]
+}
